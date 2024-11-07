@@ -1,0 +1,113 @@
+// First outpoint:
+
+Welcome to the Daniel's Ticket/Flight System
+Please enter the following information:
+Departure Airport:
+Options of airports:
+1. LAX (Los Angeles International Airport)
+2. PDX (Portland International Airport)
+3. Sea-Tac (Seattle-Tacoma International Airport)
+0. Exit
+Select an airport:
+1
+Destination Airport:
+Options of airports:
+1. LAX (Los Angeles International Airport)
+2. PDX (Portland International Airport)
+3. Sea-Tac (Seattle-Tacoma International Airport)
+0. Exit
+Select an airport:
+3
+Enter the number of layovers: 2
+First and last name of the flyer: Daniel Montes
+Birth month of the flyer: 03
+Birth day of the flyer: 17
+Birth year of the flyer: 2002
+What seat class?(first class, comfort class, or economy class): first
+Seat number: 22a
+Boarding class is: a
+Number of checked bags: 3
+Total cost of the ticket reservation plus checked bags will be: $550
+Ticket added:
+Name of the passenger: Daniel Montes
+Seat Number: 22a
+Departing from: LAX
+Going to: Sea-Tac
+Number of layovers: 2
+Boarding: Daniel Montes into the seat 22a
+
+
+// Comfort Outprint:
+Welcome to the Daniel's Ticket/Flight System
+Please enter the following information:
+Departure Airport:
+Options of airports:
+1. LAX (Los Angeles International Airport)
+2. PDX (Portland International Airport)
+3. Sea-Tac (Seattle-Tacoma International Airport)
+0. Exit
+Select an airport:
+3
+Destination Airport:
+Options of airports:
+1. LAX (Los Angeles International Airport)
+2. PDX (Portland International Airport)
+3. Sea-Tac (Seattle-Tacoma International Airport)
+0. Exit
+Select an airport:
+2
+Enter the number of layovers: 1
+First and last name of the flyer: Chris Jackson
+Birth month of the flyer: 05
+Birth day of the flyer: 21
+Birth year of the flyer: 2012
+What seat class?(first class, comfort class, or economy class): comfort
+Seat number: 33b
+Boarding class is: b
+Number of checked bags: 3
+Total cost of the ticket reservation plus checked bags will be: $450
+Ticket added:
+Name of the passenger: Chris Jackson
+Seat Number: 33b
+Departing from: Sea-Tac
+Going to: PDX
+Number of layovers: 1
+Boarding: Chris Jackson into the seat 33b
+
+
+// Economy Outprint:
+Welcome to the Daniel's Ticket/Flight System
+Please enter the following information:
+Departure Airport:
+Options of airports:
+1. LAX (Los Angeles International Airport)
+2. PDX (Portland International Airport)
+3. Sea-Tac (Seattle-Tacoma International Airport)
+0. Exit
+Select an airport:
+1
+Destination Airport:
+Options of airports:
+1. LAX (Los Angeles International Airport)
+2. PDX (Portland International Airport)
+3. Sea-Tac (Seattle-Tacoma International Airport)
+0. Exit
+Select an airport:
+2
+Enter the number of layovers: 3
+First and last name of the flyer: Jon Jones
+Birth month of the flyer: 12
+Birth day of the flyer: 23
+Birth year of the flyer: 1999
+What seat class?(first class, comfort class, or economy class): economy
+Seat number: 33d
+Boarding class is: d
+Number of checked bags: 3
+Total cost of the ticket reservation plus checked bags will be: $350
+Ticket added:
+Name of the passenger: Jon Jones
+Seat Number: 33d
+Departing from: LAX
+Going to: PDX
+Number of layovers: 3
+Boarding: Jon Jones into the seat 33d
